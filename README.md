@@ -1,1 +1,1 @@
-# CSC660--Artificial-Intelligence
+# CSC660 Artificial Intelligence
